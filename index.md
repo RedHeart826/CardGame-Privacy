@@ -3,7 +3,7 @@
 **Last updated: June 4, 2026**
 
 ## Overview
-Card Game ("the App") is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
+Reza's Suite ("the App") is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
 
 ## Data Collection
 The App does **not** collect, store, or transmit any personal data. No accounts are required to use the App.
