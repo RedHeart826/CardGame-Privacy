@@ -1,9 +1,9 @@
-# Privacy Policy — Reza's Suite
+# Privacy Policy — Reza's Cards
 
-**Last updated: June 4, 2026**
+**Last updated: September 30, 2026**
 
 ## Overview
-Reza's Suite ("the App") is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
+Reza's Cards ("the App", formerly Reza's Suite) is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
 
 ## Data Collection
 The App does **not** collect, store, or transmit any personal data. No accounts are required to use the App.
