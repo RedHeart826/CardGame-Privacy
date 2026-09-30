@@ -1,6 +1,6 @@
-# Support: Reza's Suite
+# Support: Reza's Cards
 
-Reza's Suite is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm, played offline against computer opponents.
+Reza's Cards is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm, played offline against AI opponents.
 
 ## Contact
 
