@@ -1,9 +1,9 @@
-# Privacy Policy — Reza's Cards
+# Privacy Policy — Hokm and Pasoor
 
 **Last updated: September 30, 2026**
 
 ## Overview
-Reza's Cards ("the App", formerly Reza's Suite), published by RedHeart, is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
+Hokm and Pasoor ("the App", formerly Reza's Cards and Reza's Suite), published by RedHeart, is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
 
 ## Data Collection
 The App does **not** collect, store, or transmit any personal data. No accounts are required to use the App.

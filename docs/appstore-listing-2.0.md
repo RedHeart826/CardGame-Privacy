@@ -1,4 +1,4 @@
-# App Store listing, Reza's Cards 2.x (SEO draft)
+# App Store listing, Hokm and Pasoor 2.x (SEO draft)
 
 Limits: name 30, subtitle 30, keywords 100 (comma-separated, no spaces after commas), promotional text 170, description 4000.
 Apple indexes name, subtitle and keywords for search. The description is not indexed on iOS, so it is written to convert. Don't repeat a word across name, subtitle and keywords; Apple already combines them.
@@ -7,8 +7,8 @@ Apple indexes name, subtitle and keywords for search. The description is not ind
 
 | Field | Text | Chars |
 |---|---|---|
-| App name | Pasoor & Hokm: Persian Cards | 28 |
-| Subtitle | Classic Card Games vs the CPU | 29 |
+| App name | Hokm and Pasoor | 15 |
+| Subtitle | Persian Card Games vs the CPU | 29 |
 | Keywords | pasur,hokum,iranian,trump,trick taking,partners,casino,fishing,tarneeb,spades,whist,bridge,solitaire | 100 |
 | Promotional text | Play Pasoor and Hokm, two beloved Persian card games, anytime. No account, no ads, no internet needed. Beautiful cards, music and smart opponents. | 146 |
 | Support URL | https://redheart826.github.io/CardGame-Privacy/support | |
@@ -16,7 +16,7 @@ Apple indexes name, subtitle and keywords for search. The description is not ind
 | Support email (review contact) | techsupport24ca@gmail.com | |
 | Seller / developer name | RedHeart | |
 
-Note: the app name on the Home Screen stays "Reza's Cards" (the bundle display name). The store name is a separate field and can differ. If you want them to match, change the display name in the app too (ask first).
+Note: "Persian" moved from the name to the subtitle, so the search terms Hokm, Pasoor, Persian, Card and Games are all still indexed. The Home Screen name is the bundle display name (INFOPLIST_KEY_CFBundleDisplayName, currently "Reza's Cards"); it should be changed to "Hokm and Pasoor" in the RezasSuite repo for the next build so the icon and store match. Apple expects the Home Screen name to be close to the store name, and it must be 30 characters or fewer.
 
 ## Description
 
@@ -54,10 +54,11 @@ A complete visual and audio overhaul: new hand-painted cards and card backs, a g
 Update the App Store Connect listing for my iOS card game (Apple ID 6776709010; bundle ca.techsupport24.Pasoor) and publish the GitHub pages. I handle login and 2FA. Report the current state first, show me each change before saving, and ask before anything irreversible. Do NOT click Submit for Review; I do that.
 
 1. GitHub: in my local clone of RedHeart826/CardGame-Privacy, pull branch claude/pensive-ramanujan-9vyc0h. It changes the support email in index.md and support.md to techsupport24ca@gmail.com and names RedHeart as publisher, and adds docs/appstore-listing-2.0.md. Merge it into main and push, so the live pages update. Then open https://redheart826.github.io/CardGame-Privacy/ and /support and confirm both show the new email and no trace of the old personal address (allow a few minutes for Pages to rebuild).
-2. App Store Connect, app version page (the editable version): enter the fields from docs/appstore-listing-2.0.md: Name, Subtitle, Promotional Text, Description, Keywords, What's New, Support URL, Privacy Policy URL. Check each stays within its character limit and that the name is accepted (names must be unique; if "Pasoor & Hokm: Persian Cards" is taken, tell me and propose alternatives of 30 characters or fewer, keeping "Pasoor" and "Hokm").
+2. App Store Connect, app version page (the editable version): enter the fields from docs/appstore-listing-2.0.md: Name, Subtitle, Promotional Text, Description, Keywords, What's New, Support URL, Privacy Policy URL. Check each stays within its character limit and that the name is accepted (names must be unique; if "Pasoor & Hokm: Persian Cards" is taken, tell me and propose alternatives of 30 characters or fewer, keeping "Hokm" and "Pasoor").
 3. App Information: confirm Category = Games, Subcategory Card (and Board if offered as secondary). Review contact email = techsupport24ca@gmail.com (App Review Information). Replace any copy of the old personal email anywhere in the App Store Connect record, including review notes, and tell me where you found it.
 4. Developer (seller) name: this is the legal Apple Developer account name, not an app setting. Check Membership details at developer.apple.com/account. If I am an Individual member, the seller name is my personal legal name and cannot be changed to "RedHeart" by editing a field; the options are (a) enroll as an Organization (needs a D-U-N-S number and a registered business), or (b) keep the legal name. Tell me which applies to my account, what Apple's current process and wait times are, and what I'd have to do. Do not start any enrollment or transfer without my explicit OK.
 5. Also check Users and Access for the old personal email being used as the Account Holder / Apple ID contact, and App Store Connect > Agreements, Tax and Banking contacts. Report only; don't change anything without asking.
 6. Screenshots: if the new name or marketing text appears in any screenshot, flag it.
-7. End with a checklist of what's done, what's pending, and what needs me.
+7. App rename in code: in my local RezasSuite clone, change INFOPLIST_KEY_CFBundleDisplayName from "Reza's Cards" to "Hokm and Pasoor" (both Debug and Release in Pasoor.xcodeproj/project.pbxproj) and search the source for user-visible "Reza's Cards" / "Reza's Suite" text (menu header, rules, settings, About) and change it to "Hokm and Pasoor". Do not change the bundle ID. Bump CURRENT_PROJECT_VERSION, update CLAUDE.md, build, test, commit and push. I'll archive and upload that build myself; the new store name takes effect with the version it ships in.
+8. End with a checklist of what's done, what's pending, and what needs me.
 ```
