@@ -1,6 +1,6 @@
-# Support: Reza's Cards
+# Support: Hokm and Pasoor
 
-Reza's Cards is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm, played offline against AI opponents.
+Hokm and Pasoor is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm, played offline against AI opponents.
 
 ## Contact
 
