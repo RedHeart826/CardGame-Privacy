@@ -3,7 +3,7 @@
 **Last updated: September 30, 2026**
 
 ## Overview
-Reza's Cards ("the App", formerly Reza's Suite) is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
+Reza's Cards ("the App", formerly Reza's Suite), published by RedHeart, is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
 
 ## Data Collection
 The App does **not** collect, store, or transmit any personal data. No accounts are required to use the App.
@@ -22,7 +22,7 @@ The App does not knowingly collect any information from children.
 
 ## Contact
 If you have questions about this privacy policy, contact us at:
-**reza.radman@gmail.com**
+**techsupport24ca@gmail.com**
 
 ## Changes
 We may update this policy from time to time. Changes will be reflected on this page.

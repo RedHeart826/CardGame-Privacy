@@ -4,7 +4,7 @@ Reza's Cards is an iPhone and iPad app with two classic Persian card games, Paso
 
 ## Contact
 
-For help, bug reports or feedback, email **reza.radman@gmail.com**. Please include your device model, your iOS version and a short description of what happened. A screenshot helps.
+For help, bug reports or feedback, email **techsupport24ca@gmail.com**. Please include your device model, your iOS version and a short description of what happened. A screenshot helps.
 
 ## Frequently asked questions
 
