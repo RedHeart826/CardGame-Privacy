@@ -49,6 +49,12 @@ Their seat is kept for 30 seconds and the table waits for them. They can open Pl
 **Does Play Nearby send my data anywhere?**
 No. Devices talk to each other directly and the connection is encrypted. Only your chosen name and your moves go to the other players at your table. See the privacy policy.
 
+**How do the leaderboards work?**
+Tap the trophy on the main screen and sign in to Game Center (optional). Leaderboards count matches
+against the computer at Hard (and Brutal in Pasoor; Pasoor matches played to 62 or more). If you
+change the level during a match, that match does not count. Play Nearby matches never count.
+Achievements count at any level.
+
 **Does the app collect any data?**
 No. The privacy policy is at https://redheart826.github.io/CardGame-Privacy/
 
