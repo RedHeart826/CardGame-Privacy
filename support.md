@@ -24,7 +24,7 @@ In the settings, under Language. The app switches between English and Persian (Ù
 Open a game and tap the gear button at the top of the screen.
 
 **How do I turn the music on or off?**
-Use the music button at the top of the main screen. To choose a track, or to repeat one track or play them all, go to Settings, then Music & Sound, then Tracks. Sound effects and haptics are switched on or off in the settings too.
+Tap the music button at the top of the main screen. It opens the track list, where you can turn music on or off, choose a track, and repeat one track or play them all. Music, sound effects and haptics can also be switched on or off in the settings.
 
 **Can I change the card backs or the table color?**
 Yes, in the settings. There are four card-back designs and a choice of table colors.
