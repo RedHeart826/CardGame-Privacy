@@ -9,7 +9,7 @@ For help, bug reports or feedback, email **techsupport24ca@gmail.com**. Please i
 ## Frequently asked questions
 
 **Do I need an account or an internet connection?**
-No. The app has no accounts and works entirely offline, including Play Nearby.
+No. The app has no accounts and works entirely offline, including Play Nearby. Only the optional Game Center leaderboards and achievements need an internet connection.
 
 **How do I learn the rules?**
 Open a game and tap the question-mark button at the top of the screen. Each game has its own rules page.
@@ -24,7 +24,7 @@ In the settings, under Language. The app switches between English and Persian (Ù
 Open a game and tap the gear button at the top of the screen.
 
 **How do I turn the music on or off?**
-Use the music bar on the main menu. Sound effects and haptics can be switched on or off in the settings.
+Use the music button at the top of the main screen. To choose a track, or to repeat one track or play them all, go to Settings, then Music & Sound, then Tracks. Sound effects and haptics are switched on or off in the settings too.
 
 **Can I change the card backs or the table color?**
 Yes, in the settings. There are four card-back designs and a choice of table colors.

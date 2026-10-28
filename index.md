@@ -1,12 +1,12 @@
 # Privacy Policy — Hokm and Pasoor
 
-**Last updated: October 27, 2026**
+**Last updated: October 28, 2026**
 
 ## Overview
 Hokm and Pasoor ("the App", formerly Reza's Cards and Reza's Suite), published by RedHeart, is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
 
 ## Data Collection
-The App does **not** collect any personal data. We do not run any servers, and no information about you or your games is ever sent to us or to anyone else. No accounts are required to use the App.
+The App does **not** collect any personal data. We do not run any servers, and no information about you or your games is ever sent to us. No accounts are required to use the App. Two optional features share a little information with others, never with us: Play Nearby with the other devices at your table, and Game Center with Apple. Both are described below.
 
 ## Data Storage
 All game progress, settings, statistics and your Play Nearby name are stored **locally on your device** using standard iOS storage. Deleting the App deletes them.
@@ -22,9 +22,10 @@ When you use Play Nearby:
 - **Permission.** iOS asks for permission to use the local network the first time you open Play Nearby. You can turn it off at any time in the iPhone or iPad Settings app, under Hokm and Pasoor. Everything else in the App works without it.
 
 ## Game Center (optional)
-From version 3.0 the App has leaderboards and achievements through Apple's Game Center. Nothing is
-sent to Game Center unless you sign in to Game Center yourself, and the App asks only when you tap
-Leaderboards. If you do, the App sends your scores on the leaderboards (matches won against the
+From version 3.0 the App has leaderboards and achievements through Apple's Game Center. The App does
+not use Game Center at all until you tap the Leaderboards (trophy) button. From then on, each time the
+App opens it signs in to Game Center quietly, if you are signed in to Game Center on your device, and it
+never shows Apple's sign-in screen unless you tap Leaderboards. While signed in, the App sends your scores on the leaderboards (matches won against the
 computer, best streak and best round, Kots) and your achievements to Apple's Game Center, where
 they are shown to you and to other Game Center players under your Game Center name. This is
 handled by Apple under Apple's privacy policy; we do not receive it. You can sign out at any time
