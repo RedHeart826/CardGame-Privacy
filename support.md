@@ -38,7 +38,7 @@ Yes. A game in progress is saved on your device and resumes when you come back.
 Everyone opens Play Nearby on the main menu on their own iPhone or iPad. One person taps Host Hokm or Host Pasoor; the others tap Join on that table. The host taps Start. The computer plays any empty seats. Hokm takes up to four players, Pasoor two.
 
 **My phone doesn't see the table.**
-- Allow the app to use the local network: Settings > Hokm and Pasoor > Local Network.
+- Allow the app to use the local network: Settings > Hokm Pasoor > Local Network.
 - Be on the same Wi-Fi, or turn on Bluetooth (and Wi-Fi, even if not connected to a network).
 - Stay within a few metres of each other.
 - Make sure everyone has the latest version of the app.

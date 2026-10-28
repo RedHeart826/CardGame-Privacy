@@ -19,7 +19,7 @@ When you use Play Nearby:
 - **What is not shared.** Nobody receives your cards except you. Each player is sent only their own hand and the cards played on the table.
 - **Security.** The connection between devices is encrypted.
 - **Nothing is kept by us.** When the match ends or you leave, the connection closes. We never receive any of this information.
-- **Permission.** iOS asks for permission to use the local network the first time you open Play Nearby. You can turn it off at any time in the iPhone or iPad Settings app, under Hokm and Pasoor. Everything else in the App works without it.
+- **Permission.** iOS asks for permission to use the local network the first time you open Play Nearby. You can turn it off at any time in the iPhone or iPad Settings app, under Hokm Pasoor (the App's name on the Home Screen). Everything else in the App works without it.
 
 ## Game Center (optional)
 From version 3.0 the App has leaderboards and achievements through Apple's Game Center. The App does
