@@ -36,13 +36,14 @@ From version 4.0 you can play Hokm and Pasoor online with friends or other playe
 Game Center. Online play is optional. The App does not start it until you choose it.
 
 - **Signing in.** To play online you must be signed in to Game Center on your device. Your Game Center
-  name and an identifier that Apple gives this game are shown to the people you play with.
+  name, an identifier Apple gives this game, and a random identifier the App makes for itself are shown to, or sent to, the people you play with.
 - **What is sent during a match.** The game's moves, your seat at the table, and the preset messages
   and stickers you choose are sent to the other players' devices **through Apple's Game Center
   servers**. There is no chat: you cannot type messages, only pick from a fixed list of phrases and
   stickers.
-- **What is not shared.** Nobody receives your cards except you. Each player is sent only their own hand
-  and the cards played on the table.
+- **Your cards.** One player's device runs each match (the host), so it holds every hand, and a copy
+  of the table goes to the player who would take over if the host leaves. The App shows each player
+  only their own hand and the cards played on the table, and keeps the copy out of sight.
 - **Leagues and wins.** Your league points and online wins are stored in Game Center leaderboards
   (Apple's service) and are shown to other Game Center players under your Game Center name.
 - **Nothing reaches us.** We run no server and receive none of this information. Apple handles it under

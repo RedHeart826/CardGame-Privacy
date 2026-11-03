@@ -61,7 +61,7 @@ No. The privacy policy is at https://redheart826.github.io/CardGame-Privacy/
 ## Online play
 
 **How do I play online?**
-Sign in to Game Center in the Settings app, then tap Online play on the main menu. Invite Game Center friends, or let the app find players. Hokm takes up to four players, Pasoor two. Empty seats in Hokm are played by the computer.
+Sign in to Game Center in the Settings app. Then, on the main menu, tap Play with Others under Hokm or Pasoor and choose Invite friends online (Game Center friends) or Find players (Game Center finds players; these games count in the league). Hokm takes up to four players, Pasoor two. Empty seats in Hokm are played by the computer.
 
 **Can I talk to the other players?**
 You can send a short preset message or a sticker from a fixed list. There is no typing and no chat.
