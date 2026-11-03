@@ -66,6 +66,9 @@ Sign in to Game Center in the Settings app. Then, on the main menu, tap Play wit
 **Can I talk to the other players?**
 You can send a short preset message or a sticker from a fixed list. There is no typing and no chat.
 
+**How do leagues work?**
+Games with players Game Center finds earn points: 3 for a win (4 if your team made a Kot in Hokm), 1 for a loss played to the end, 0 for leaving. Seasons last four weeks. The top fifth of Division 1 move up to the Premier League; the bottom fifth of the Premier League move down. Games with invited friends do not count.
+
 **Is there a time limit?**
 Online games have a turn timer. If you run out of time, or leave, the computer plays your turns until you come back. You can return to the table until the match ends.
 
