@@ -1,6 +1,6 @@
 # Support: Hokm and Pasoor
 
-Hokm and Pasoor is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm. Play against smart computer opponents, or with family and friends in the same room with Play Nearby. In English or Persian (فارسی).
+Hokm and Pasoor is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm. Play against smart computer opponents, with family and friends in the same room with Play Nearby, or online with friends and other players through Game Center. In English or Persian (فارسی).
 
 ## Contact
 
@@ -9,7 +9,7 @@ For help, bug reports or feedback, email **techsupport24ca@gmail.com**. Please i
 ## Frequently asked questions
 
 **Do I need an account or an internet connection?**
-No. The app has no accounts and works entirely offline, including Play Nearby. Only the optional Game Center leaderboards and achievements need an internet connection.
+No. The app has no accounts of its own and works offline, including Play Nearby. Only the optional Game Center features (leaderboards, achievements and online play) need an internet connection and a Game Center sign-in.
 
 **How do I learn the rules?**
 Open a game and tap the question-mark button at the top of the screen. Each game has its own rules page.
@@ -57,6 +57,20 @@ Achievements count at any level.
 
 **Does the app collect any data?**
 No. The privacy policy is at https://redheart826.github.io/CardGame-Privacy/
+
+## Online play
+
+**How do I play online?**
+Sign in to Game Center in the Settings app, then tap Online play on the main menu. Invite Game Center friends, or let the app find players. Hokm takes up to four players, Pasoor two. Empty seats in Hokm are played by the computer.
+
+**Can I talk to the other players?**
+You can send a short preset message or a sticker from a fixed list. There is no typing and no chat.
+
+**Is there a time limit?**
+Online games have a turn timer. If you run out of time, or leave, the computer plays your turns until you come back. You can return to the table until the match ends.
+
+**What data does online play send?**
+Moves, your seat, and the messages and stickers you pick go to the other players through Apple's Game Center servers. The developer receives nothing. See the privacy policy: https://redheart826.github.io/CardGame-Privacy/
 
 ## Requirements
 
