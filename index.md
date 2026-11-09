@@ -1,6 +1,6 @@
 # Privacy Policy — Hokm and Pasoor
 
-**Last updated: November 3, 2026**
+**Last updated: November 9, 2026**
 
 ## Overview
 Hokm and Pasoor ("the App", formerly Reza's Cards and Reza's Suite), published by RedHeart, is a card game app featuring Pasoor and Hokm. Your privacy is important to us.
@@ -23,9 +23,9 @@ When you use Play Nearby:
 
 ## Game Center (optional)
 From version 3.0 the App has leaderboards and achievements through Apple's Game Center. The App does
-not use Game Center at all until you tap the Leaderboards (trophy) button. From then on, each time the
+not use Game Center at all until you tap the Leaderboards (trophy) button or choose to play online. From then on, each time the
 App opens it signs in to Game Center quietly, if you are signed in to Game Center on your device, and it
-never shows Apple's sign-in screen unless you tap Leaderboards. While signed in, the App sends your scores on the leaderboards (matches won against the
+never shows Apple's sign-in screen unless you tap Leaderboards or choose to play online. While signed in, the App sends your scores on the leaderboards (matches won against the
 computer, best streak and best round, Kots) and your achievements to Apple's Game Center, where
 they are shown to you and to other Game Center players under your Game Center name. This is
 handled by Apple under Apple's privacy policy; we do not receive it. You can sign out at any time
@@ -37,6 +37,9 @@ Game Center. Online play is optional. The App does not start it until you choose
 
 - **Signing in.** To play online you must be signed in to Game Center on your device. Your Game Center
   name, an identifier Apple gives this game, and a random identifier the App makes for itself are shown to, or sent to, the people you play with.
+- **Tables with a code.** When you create a table, the App makes up a random four-character code.
+  You decide whom to give it to. The App uses the code only to ask Game Center to bring together the
+  players who enter it, and does not save it.
 - **What is sent during a match.** The game's moves, your seat at the table, and the preset messages
   and stickers you choose are sent to the other players' devices **through Apple's Game Center
   servers**. There is no chat: you cannot type messages, only pick from a fixed list of phrases and
