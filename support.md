@@ -1,6 +1,6 @@
 # Support: Hokm and Pasoor
 
-Hokm and Pasoor is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm. Play against smart computer opponents, or with family and friends in the same room with Play Nearby. In English or Persian (فارسی).
+Hokm and Pasoor is an iPhone and iPad app with two classic Persian card games, Pasoor and Hokm. Play against smart computer opponents, with family and friends in the same room with Play Nearby, or online with friends and other players through Game Center. In English or Persian (فارسی).
 
 ## Contact
 
@@ -9,7 +9,7 @@ For help, bug reports or feedback, email **techsupport24ca@gmail.com**. Please i
 ## Frequently asked questions
 
 **Do I need an account or an internet connection?**
-No. The app has no accounts and works entirely offline, including Play Nearby. Only the optional Game Center leaderboards and achievements need an internet connection.
+No. The app has no accounts of its own and works offline, including Play Nearby. Only the optional Game Center features (leaderboards, achievements and online play) need an internet connection and a Game Center sign-in.
 
 **How do I learn the rules?**
 Open a game and tap the question-mark button at the top of the screen. Each game has its own rules page.
@@ -57,6 +57,31 @@ Achievements count at any level.
 
 **Does the app collect any data?**
 No. The privacy policy is at https://redheart826.github.io/CardGame-Privacy/
+
+## Online play
+
+**How do I play online?**
+Sign in to Game Center in the Settings app. Then, on the main menu, tap Play with Others under Hokm or Pasoor:
+- **Create a table** to host a game. The waiting room shows a four-character code; send it to your friends with Share the code. Tap Start whenever you like: the computer plays any empty seat.
+- **Join with a code** to sit at a friend's table: type the code they sent you.
+- **Find players** to let Game Center find other players for you. These games count in the league.
+
+Hokm takes up to four players, Pasoor two.
+
+**My friend can't find my table.**
+Check that you both chose the same game (a Hokm code does not open a Pasoor table), that you both have the latest version of the app, and that you are both signed in to Game Center. The code works while your table is waiting for players; once the match has started or the table is full, nobody else can join.
+
+**Can I talk to the other players?**
+You can send a short preset message or a sticker from a fixed list. There is no typing and no chat.
+
+**How do leagues work?**
+Games with players Game Center finds earn points: 3 for a win (4 if your team made a Kot in Hokm), 1 for a loss played to the end, 0 for leaving. Seasons last four weeks. The top fifth of Division 1 move up to the Premier League; the bottom fifth of the Premier League move down. Games at a table with a code do not count.
+
+**Is there a time limit?**
+Online games have a turn timer. If you run out of time, or leave, the computer plays your turns until you come back. You can return to the table until the match ends.
+
+**What data does online play send?**
+Moves, your seat, and the messages and stickers you pick go to the other players through Apple's Game Center servers. The developer receives nothing. See the privacy policy: https://redheart826.github.io/CardGame-Privacy/
 
 ## Requirements
 
